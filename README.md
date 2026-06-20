@@ -1,15 +1,26 @@
-## Hi there 👋
-<!--
-**R1yDev/R1yDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rayen👋
 
-Here are some ideas to get you started:
+## Who am I?
+I'm currently a Computer Science student, graduating as a Software Engineer next year. 
+After that, I plan to pursue further studies in **Cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What am I currently working on?
+Alongside my studies, I spend my free time learning new skills and building projects:
+- 🇩🇪 Learning German
+- 🎬 Video editing
+- 🎮 Game development with Unity
+- 🛡️ Ethical hacking — bug/vulnerability research with Kali Linux
+- 🧩 Reverse engineering with Ghidra
+- 🏦 Bank management system (Java)
+- 📡 A* algorithm for network routing (Python)
+- 🔎 Search engine project (Python)
+
+## 🛠️ Tools & Technologies
+**Languages:** Python, JavaScript, SQL/PL-SQL, Java, C, C++, C#, PHP, Assembly
+
+**Frameworks:** Selenium WebDriver, .NET
+
+**Tools:** Git, Flex, VS Code, Unity, DaVinci Resolve, Code::Blocks, Arduino (IoT), Ghidra
+
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/rt-rayen-493002257
