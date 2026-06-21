@@ -12,7 +12,7 @@ Alongside my studies, I spend my free time learning new skills and building proj
 - 🛡️ Ethical hacking — bug/vulnerability research with Kali Linux
 - 🧩 Reverse engineering with Ghidra
 - 🏦 Bank management system (Java)
-- 📡 A* algorithm for network routing (Python)
+- 📡 A* algorithm for Networking && Routing (Python)
 - 🔎 Search engine project (Python)
 
 ## 🛠️ Tools & Technologies
