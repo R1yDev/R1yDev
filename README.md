@@ -13,7 +13,7 @@ Alongside my studies, I spend my free time learning new skills and building proj
 - 🧩 Reverse engineering with Ghidra
 - 🏦 Bank management system (Java)
 - 📡 A* algorithm for Networking && Routing (Python)
-- 🤖 AI Agent Navigation on a Grid using BFS
+- 🤖 AI Agent Navigation on a Grid using BFS (Python)
 - 🔎 Search engine project (Python)
 
 ## 🛠️ Tools & Technologies
