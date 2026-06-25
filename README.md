@@ -13,14 +13,15 @@ Alongside my studies, I spend my free time learning new skills and building proj
 - 🧩 Reverse engineering with Ghidra
 - 🏦 Bank management system (Java)
 - 📡 A* algorithm for Networking && Routing (Python)
+- 🤖 AI Agent Navigation on a Grid using BFS
 - 🔎 Search engine project (Python)
 
 ## 🛠️ Tools & Technologies
-**Languages:** Python, JavaScript, SQL/PL-SQL, Java, C, C++, C#, PHP, Assembly
+**Languages:** Python, JavaScript, SQL/PL-SQL (DBA), Java, C, C++, C#, PHP, Assembly
 
 **Frameworks:** Selenium WebDriver, .NET
 
-**Tools:** Git, Flex, VS Code, Unity, DaVinci Resolve, Code::Blocks, Arduino (IoT), Ghidra
+**Tools:** Git, Flex, VS Code, Unity, DaVinci Resolve, Code::Blocks, Arduino (IoT), Ghidra, Sql Command Line, cmd
 
 ## 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/rt-rayen-493002257
